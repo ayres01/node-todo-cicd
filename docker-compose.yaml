@@ -1,7 +1,7 @@
-version: '3.10'
+version: '3.9'
 
 services:
   web:
     image: "trainwithshubham/node-app-test-new:latest"
     ports:
-      - "8011:8011"
+      - "8013:8013"
