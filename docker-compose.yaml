@@ -1,7 +1,7 @@
-version: '3.9'
+version: '2.2'
 
 services:
   web:
-    image: "trainwithshubham/node-app-test-new:latest"
+    image: "ayres123/node-app-test-new:latest"
     ports:
-      - "8013:8013"
+      - "8014:8014"
